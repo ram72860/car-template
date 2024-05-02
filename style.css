@@ -1,0 +1,196 @@
+.main {
+    display: flex;
+    padding: 49px;
+    background: rgb(213, 237, 239);
+}
+
+.ram1 button:hover {
+    background: green;
+    color: azure;
+    border-radius: 20px;
+}
+
+.ram1 {
+    margin-left: 15%;
+    font-size: 20PX;
+}
+
+.logo {
+    margin-left: 50px;
+    font-size: 24px;
+}
+
+.co {
+    margin-top: 50px;
+}
+
+.logo img {
+    margin-top: -80px;
+}
+
+.p1 {
+    margin-left: 240px;
+}
+
+.main2 {
+    background: rgb(213, 237, 239);
+    height: 450px;
+}
+
+.ram3 img {
+    float: left;
+    height: 250px;
+    width: 20%;
+    border: 2px solid black;
+    margin-left: 51px;
+}
+
+.main3 {
+    background: rgb(213, 237, 239);
+    padding: 10px;
+
+}
+
+.ram4 {
+    margin-left: 50px;
+}
+
+.ram5 {
+    margin-left: 50px;
+}
+
+.ram6 {
+    display: flex;
+    margin-left: 350px;
+    margin-top: -202px;
+}
+
+.ram6 h3 {
+    margin-right: -120px;
+    margin-top: 20px;
+}
+
+.ram6 p {
+    margin-right: 20px;
+    margin-top: 90px;
+}
+
+.img6 img {
+    margin-top: -150px;
+    margin-left: 110px;
+}
+
+.ram3 button {
+    margin-left: 550px;
+    margin-top: 50px;
+}
+
+.ram3 button:hover {
+    color: azure;
+    background: green;
+    border-radius: 20px;
+}
+
+.ram9 {
+    height: 31px;
+    width: 15%;
+    background: grey;
+}
+
+.ram9 p {
+    margin-left: 25px;
+    margin-top: -35px;
+    font-size: 30px;
+}
+
+.ram10 {
+    height: 31px;
+    width: 89%;
+    background: grey;
+    margin-left: 290px;
+    margin-top: -68px;
+
+}
+
+.ram10 p {
+    margin-top: 11px;
+    margin-left: 23px;
+    font-size: 30px;
+}
+
+.main4 {
+    height: 500px;
+    width: 100%;
+
+}
+
+.final {
+    margin-left: 26px;
+    font-size: 22px;
+    width: 24%;
+    float: left;
+    background: gray;
+}
+
+.final {
+    margin-left: 30px;
+
+}
+
+.finall {
+    margin-left: 29px;
+    font-size: 22px;
+    width: 22%;
+    margin-left: 300px;
+    background: gray;
+}
+
+.ram8 {
+    float: left;
+}
+
+.final3 {
+    border: 2px solid black;
+    height: 37px;
+    width: 8%;
+    margin-left: 700px;
+    background: gray;
+}
+
+.final3 p {
+    margin-left: 20px;
+    margin-top: 9px;
+}
+
+.bb {
+    border: 2px solid black;
+    height: 37px;
+    width: 100%;
+    background: gray;
+}
+
+.bb p {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.yy {
+    border: 2px solid black;
+    background: grey;
+    height: 40px;
+    width: 140px;
+    margin-left: 280px;
+    margin-top: -175px;
+}
+
+.yy p {
+    margin-left: 60px;
+}
+
+.ff {
+    border: 2px solid black;
+    background: grey;
+    height: 40px;
+    width: 145px;
+    margin-top: 50px;
+}
